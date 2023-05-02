@@ -1,12 +1,9 @@
-## Hi there 👋
+# 💻 나만의 작은 공부방
 
-<!--
+인강 혹은 학습용 코드들을 모아놓는 BurnIn 스튜디오입니다.
 
-**Here are some ideas to get you started:**
+개인 깃허브 프로필에는 개인 프로젝트나 팀 프로젝트 코드만을 올려놓고 싶어서 따로 만든 연습 코드용 조직입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+같이 BurnIn 스튜디오에 합류하고 싶으신분은 아래 메일로 연락주세요~
+
+joshua_0621@naver.com
